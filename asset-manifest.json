@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/css/main.0e6c5377.chunk.css",
+    "main.js": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/main.36f7036b.chunk.js",
+    "main.js.map": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/main.36f7036b.chunk.js.map",
+    "runtime-main.js": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/runtime-main.0d883eba.js",
+    "runtime-main.js.map": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/runtime-main.0d883eba.js.map",
+    "static/css/2.9cd75266.chunk.css": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/css/2.9cd75266.chunk.css",
+    "static/js/2.531f20ca.chunk.js": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/2.531f20ca.chunk.js",
+    "static/js/2.531f20ca.chunk.js.map": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/2.531f20ca.chunk.js.map",
+    "index.html": "/ahmedkhan2916/Ahmed_weather_react_app.git/index.html",
+    "static/css/2.9cd75266.chunk.css.map": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/css/2.9cd75266.chunk.css.map",
+    "static/css/main.0e6c5377.chunk.css.map": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/css/main.0e6c5377.chunk.css.map",
+    "static/js/2.531f20ca.chunk.js.LICENSE.txt": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/js/2.531f20ca.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/img.212869bd.jpg",
+    "static/media/haze.4ab5fe46.png": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/haze.4ab5fe46.png",
+    "static/media/mist_weather.c2217946.png": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/mist_weather.c2217946.png",
+    "static/media/rainy.1775e9eb.png": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/rainy.1775e9eb.png",
+    "static/media/snow.cf5389d9.png": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/snow.cf5389d9.png",
+    "static/media/sun.0b7ed9b3.png": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/sun.0b7ed9b3.png",
+    "static/media/thunder.91e41410.png": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/thunder.91e41410.png",
+    "static/media/weather-icons.css": "/ahmedkhan2916/Ahmed_weather_react_app.git/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d883eba.js",
+    "static/css/2.9cd75266.chunk.css",
+    "static/js/2.531f20ca.chunk.js",
+    "static/css/main.0e6c5377.chunk.css",
+    "static/js/main.36f7036b.chunk.js"
+  ]
+}
